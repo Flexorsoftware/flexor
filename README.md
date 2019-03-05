@@ -6,6 +6,6 @@ The set-up of FLEXOR is a simple process:
 2) Reboot your computer
 3) Install RXTX: http://rxtx.qbang.org/
 4) Run Jar file via double click or through terminal (java -jar <pathToFlexor.jar>)
-5) Connect your load-cell and start to work!
+5) Connect your load-cell and start to work! (or use the sample data -FlexorSamples.zip- importing the different files)
 
 Enjoy!
